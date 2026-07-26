@@ -1,1 +1,1 @@
-
+module.exports = { db: "sqlite" };
