@@ -1,1 +1,5 @@
-
+body{font-family:system-ui;background:#0f0f12;color:#fff;margin:0;background-image:url('../images/bg_color.jpg');background-size:cover;background-blend-mode:overlay;background-color:#152040;opacity:0.95}
+header{padding:1rem;background:#1a1a2e}
+nav{display:flex;gap:.5rem;padding:.5rem;background:#16162a}
+nav a{color:#a78bfa;text-decoration:none;padding:.25rem .5rem;border-radius:.25rem}
+main{padding:1rem}
